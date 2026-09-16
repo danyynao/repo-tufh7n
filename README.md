@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · NmYJoyON -->
-## Notification 1/2
-Round: Round 1
-To: adunlavy@hardingpoorman.com, leticia.pinon@mwcc-usa.com
-At: 2026-09-16 14:13:28
-Id: NmYJoyON
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: mdublo@roadrunner.com, crowleypm@aol.com
+At: 2026-09-16 14:13:36
+Id: jErXPIXq
